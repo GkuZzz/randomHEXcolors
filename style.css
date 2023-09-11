@@ -34,6 +34,7 @@ body {
 
 
 .btn {
+    appearance: none;
     position: relative;
     width: 150px;
     height: 150px;
@@ -70,5 +71,7 @@ body {
 .container {
     height: 816px;
 }
+
+
     
 }
