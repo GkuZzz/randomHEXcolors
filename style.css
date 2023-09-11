@@ -35,6 +35,7 @@ body {
 
 .btn {
     appearance: none;
+    -webkit-appearance: none;
     position: relative;
     width: 150px;
     height: 150px;
